@@ -19,7 +19,7 @@ I would like to be able to save links.
 ```sh
 As a user,
 So that I can play the links I have saved easily,
-I would like the links to be embedded in the list.
+I would like the links to be embedded within the listing.
 ```
 
 ```sh
@@ -37,5 +37,5 @@ I would like to be able to search my links.
 ```sh
 As a user,
 So that I can catagorise my links,
-I would like to be able to tag genre and other important information to links. 
+I would like to be able to tag genre and other important information to links.
 ```
