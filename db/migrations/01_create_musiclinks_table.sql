@@ -1,0 +1,1 @@
+CREATE TABLE musiclinklist(id SERIAL PRIMARY KEY, url VARCHAR(60));

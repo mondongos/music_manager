@@ -2,17 +2,6 @@
 
 A place for me to store links to music I find across the web, including YouTube, Spotify and Soundcloud. They are embedded them so they're easily playable. I can sort links by date and name.
 
-The site will have all the following specifications:
-
-- Show a list of bookmarks
-- Add new bookmarks
-- Delete bookmarks
-- Update bookmarks
-- Comment on bookmarks
-- Tag bookmarks into categories
-- Filter bookmarks by tag
-- Users are restricted to manage only their own bookmarks
-
 ### User Stories
 
 ```sh
