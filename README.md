@@ -74,3 +74,5 @@ As a user,
 So that I can play the links I have saved easily,
 I would like the links to be embedded within the listing.
 ```
+
+![user-story-diagram](./images/user-story-1-dia.png)
