@@ -24,7 +24,7 @@ I would like to see a list of my saved links
 ```sh
 As a user,
 So that I can save links to that I find,
-I would like to be able to save links.
+I would like to be able to save the site address and title.
 ```
 
 ```sh
@@ -73,6 +73,12 @@ I would like to be able to search my links.
 As a user,
 So that I can play the links I have saved easily,
 I would like the links to be embedded within the listing.
+```
+
+```sh
+As a user,
+So that I can save time,
+I would like to automatically assign a title to any link based off metatitle.
 ```
 
 ![user-story-diagram](./images/user-story-1-dia.png)
