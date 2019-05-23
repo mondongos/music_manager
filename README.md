@@ -13,7 +13,7 @@ I would like to see a list of my saved links
 ```sh
 As a user,
 So that I can save links to that I find,
-I would like to be able to save the site address and title.
+I would like to be able to add the site address and title.
 ```
 
 ```sh
